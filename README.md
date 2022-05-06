@@ -30,10 +30,10 @@ inserción del texto que será encriptado o desencriptado, y el usuario debe pod
 Extra Smile:
 - Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del `ctrl+C` o de la opción "copiar" del menú de las aplicaciones.<br></br>
 
-<br></br>
->- Para ver el funcionamiento de la app ingrese al siguiente link : [#challengeonecodificador2](https://ndorola.github.io/encriptador/)
-
 <div align='center'>
   <img src="https://media.giphy.com/media/E8bphxyLZLKyWTQNbq/giphy.gif"/>
 </div>
+
+<br></br>
+- Para ver el funcionamiento de la app ingrese al siguiente link : [#challengeonecodificador2](https://ndorola.github.io/encriptador/)
 
