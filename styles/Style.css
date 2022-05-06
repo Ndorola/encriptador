@@ -172,7 +172,7 @@ body {
 
 
 /* RESPONSIVE */
-@media (max-width: 375px) {
+@media (min-width: 280px) and (max-width: 768px) {
     body {
         display: flex;
         flex-direction: column;
