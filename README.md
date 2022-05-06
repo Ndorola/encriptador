@@ -14,7 +14,7 @@ La letra "u" es convertida en "ufat"
 ```
 
 Los requisitos indicados:
-```
+
 - Debe funcionar solo con letras minúsculas
 - No deben ser utilizados letras con acentos ni caracteres especiales
 - Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original. 
@@ -29,7 +29,6 @@ inserción del texto que será encriptado o desencriptado, y el usuario debe pod
 
 Extra Smile:
 - Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del `ctrl+C` o de la opción "copiar" del menú de las aplicaciones.<br></br>
-```
 
 <br></br>
 >- Para ver el funcionamiento de la app ingrese al siguiente link : [#challengeonecodificador2](https://ndorola.github.io/encriptador/)
