@@ -1,5 +1,5 @@
 ## Oracle ONE + Alura Latam - Grupo 2 
-Challenge #1 Oracle One - Encriptador / Codificador.
+Challenge #1 - Encriptador / Codificador.
 
 ## Trabajo realizado
 En este primer desafío de Alura se desarrolló una aplicación que encripta o más bien codifica y decodifica textos.
