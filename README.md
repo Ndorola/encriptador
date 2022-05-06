@@ -1,4 +1,4 @@
-## Oracle ONE + Alura Latam - Grupo 2 
+## Oracle ONE + Alura Latam
 Challenge #1 - Encriptador / Codificador. Para ver el funcionamiento de la app ingrese al siguiente link : [#challengeonecodificador2](https://ndorola.github.io/encriptador/)
 <br></br>
 <div align='center'>
