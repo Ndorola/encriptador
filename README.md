@@ -6,11 +6,11 @@ En este primer desafío de Alura se desarrolló una aplicación que encripta o m
 
 Las "llaves" de encriptación que se utilizaron son las siguientes:
 ```
-La letra "e" es convertida para "enter"
-La letra "i" es convertida para "imes"
-La letra "a" es convertida para "ai"
-La letra "o" es convertida para "ober"
-La letra "u" es convertida para "ufat"
+La letra "e" es convertida en "enter"
+La letra "i" es convertida en "imes"
+La letra "a" es convertida en "ai"
+La letra "o" es convertida en "ober"
+La letra "u" es convertida en "ufat"
 ```
 
 Los requisitos indicados:
