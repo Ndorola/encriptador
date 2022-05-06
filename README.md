@@ -1,5 +1,10 @@
 ## Oracle ONE + Alura Latam - Grupo 2 
 Challenge #1 - Encriptador / Codificador.
+- Para ver el funcionamiento de la app ingrese al siguiente link : [#challengeonecodificador2](https://ndorola.github.io/encriptador/)
+<br></br>
+<div align='center'>
+  <img src="https://media.giphy.com/media/E8bphxyLZLKyWTQNbq/giphy.gif"/>
+</div>
 
 ## Trabajo realizado
 En este primer desafío de Alura se desarrolló una aplicación que encripta o más bien codifica y decodifica textos.
@@ -30,10 +35,4 @@ inserción del texto que será encriptado o desencriptado, y el usuario debe pod
 Extra Smile:
 - Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del `ctrl+C` o de la opción "copiar" del menú de las aplicaciones.<br></br>
 
-<div align='center'>
-  <img src="https://media.giphy.com/media/E8bphxyLZLKyWTQNbq/giphy.gif"/>
-</div>
-
-<br></br>
-- Para ver el funcionamiento de la app ingrese al siguiente link : [#challengeonecodificador2](https://ndorola.github.io/encriptador/)
 
