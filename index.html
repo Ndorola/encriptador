@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    <title>Encriptador</title>
+    <link rel="stylesheet" href="./styles/Style.css"
+</head>
+<body>
+
+    <div class="logoContainer">
+        <img src="./assets/Logo.png">
+    </div>
+    <div class="textContainer">
+        <textarea id="textEntered" class="encriptar" placeholder="Ingrese el texto aqui"></textarea>
+        <div class="infoContainer">
+            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="16px" height="16px" preserveAspectRatio="xMidYMid meet" viewBox="0 0 16 16"><path fill="rgba(73, 80, 87, 1)" d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8 4a.905.905 0 0 0-.9.995l.35 3.507a.552.552 0 0 0 1.1 0l.35-3.507A.905.905 0 0 0 8 4zm.002 6a1 1 0 1 0 0 2a1 1 0 0 0 0-2z"/></svg>
+            <p>Solo letras minúsculas y sin acentos.</p>
+        </div>
+        <div class="buttonsContainer">
+            <button id="buttonEncrypt" class="buttonPrimary">Encriptar</button>
+            <button id="buttonDecrypt" class="buttonSecondary">Desencriptar</button>
+        </div>
+        <div class="description">
+            <p>Challenge #1 ORACLE ONE - Desarrollado por Nicole Bárbara Dorola</p>
+            <a href="https://www.linkedin.com/in/nicoledorola/"><img src="./assets/linkedin.png"/></a>
+            <a href="https://github.com/Ndorola"><img src="./assets/github.png"/></a>
+        </div>
+    </div>
+    <div id="container" class="containerImage">
+        <img src="./assets/Muñeco.png">
+        <div class="infoMessage">
+            <h3>Ningún mensaje fue encontrado</h3>
+            <p>Ingresa el texto que desees encriptar o desencriptar.</p>
+        </div>
+    </div>
+
+    <script src="./scripts/main.js"></script>
+
+</body>
+</html>
